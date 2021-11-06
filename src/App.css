@@ -6,3 +6,9 @@
   display: block;
   margin: 0 auto;
 }
+
+.App-footer {
+  text-align: center;
+  margin: 40px 0;
+  font-weight: 300;
+}
