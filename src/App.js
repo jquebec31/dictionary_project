@@ -13,7 +13,7 @@ export default function App() {
         
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="travel" />
       </main>
 
       <footer className="App-footer">
