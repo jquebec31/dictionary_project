@@ -5,8 +5,8 @@
     margin-right: 10px;
     text-decoration: none;
     padding: 10px 20px;
-    border-radius: 21px;
-    transition: all 130ms ease-in-out;
+    border-radius: 22px;
+    transition: all 150ms ease-in-out;
 }
 
 .Phonetic a:hover {
@@ -20,5 +20,5 @@
 }
 
 .Phonetic {
-    height: 50px;
+    height: 30px;
 }
